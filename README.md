@@ -11,3 +11,5 @@ like this to the board:
 	11: MOSI
 	12: MISO
 	13: SCK
+
+Feel free to e-mail me if you have any comments: haritz@haritzlopez.es
